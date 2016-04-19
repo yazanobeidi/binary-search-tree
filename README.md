@@ -1,18 +1,11 @@
 # binary-search-tree
-C++ Binary Search Tree Implementation
+This is a binary search tree implemented in C++. This was done as part of my algorithms and data structures course in second year.
 
-	Files:
-		- bst.hpp - BST declarations
-		- bst.cpp - BST implementation
-		- main.cpp - main, runs BST Demo
-		- README.txt
-		- LICENCE.txt
+## Instructions
 
+1. Clone repo and enter directory
+2. Compile source files: ```g++ *.cpp -o bst```
+3. Run ```./bst```
 
-	Instructions:
-		
-		1. Navigate to BST directory (cd bst)
-		2. Compile source files (g++ *.cpp -o bst) ... ignore warnings
-		3. Run (./bst)
-
-Copyright 2015 Yazan Obeidi
+## License
+Copyright 2015, 2016 Yazan Obeidi (GNU GPLv3)
